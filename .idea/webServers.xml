@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c62e0e50-3a0d-4185-b0b8-92e8119cbf91" name="tasktracker" url="https://tasktracker.blackconnection.net">
+        <fileTransfer rootFolder="/home/tasktracker" accessType="SFTP" host="ssh.blackconnection.net" port="8422" sshConfigId="28e04271-d5f3-4873-863d-f3c76f01cf12" sshConfig="tasktracker@ssh.blackconnection.net:8422 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

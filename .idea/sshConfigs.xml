@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh.blackconnection.net" id="28e04271-d5f3-4873-863d-f3c76f01cf12" port="8422" nameFormat="DESCRIPTIVE" username="tasktracker" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
