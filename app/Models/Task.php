@@ -30,7 +30,7 @@ class task extends Model
 
     public function manager(): BelongsTo
     {
-        return $this->belongsTo( manager::class);
+        return $this->belongsTo( Manager::class);
     }
 
 
